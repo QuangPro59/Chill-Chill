@@ -1,0 +1,24 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 621.24 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 4050 Laptop GPU
+
+PASS Isolated test save path: res://couple/couple_manager.gd
+PASS Isolated test save path: res://chill_chill/main.gd
+SCREENSHOT title_fixed.png (640, 360)
+PASS SG logo removed
+PASS Play button opens farm
+SCREENSHOT names_dialog.png (640, 360)
+PASS Fresh save opens name dialog
+PASS Name confirmation resumes game
+PASS Saved custom names preserved
+PASS Two controllable players spawned
+PASS Player two has distinct female frames
+PASS Female animation down_idle
+PASS Female animation up_idle
+PASS Female animation left_idle
+PASS Female animation right_idle
+PASS Female animation walk_down
+PASS Female animation walk_up
+PASS Female animation walk_left
+PASS Female animation walk_right
+SCREENSHOT farm_fixed.png (640, 360)
+SCREENSHOT farm_overview.png (720, 360)

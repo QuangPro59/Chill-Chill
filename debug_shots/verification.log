@@ -1,0 +1,98 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 621.24 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 4050 Laptop GPU
+
+PASS Isolated test save path: res://couple/couple_manager.gd
+PASS Isolated test save path: res://chill_chill/main.gd
+SCREENSHOT title_fixed.png (640, 360)
+PASS SG logo removed
+PASS Play button opens farm
+SCREENSHOT names_dialog.png (640, 360)
+PASS Fresh save opens name dialog
+PASS Name confirmation resumes game
+PASS Saved custom names preserved
+PASS Two controllable players spawned
+PASS Player two has distinct female frames
+PASS Female animation down_idle
+PASS Female animation up_idle
+PASS Female animation left_idle
+PASS Female animation right_idle
+PASS Female animation walk_down
+PASS Female animation walk_up
+PASS Female animation walk_left
+PASS Female animation walk_right
+SCREENSHOT farm_fixed.png (640, 360)
+PASS Toolbar mouse selection 0
+PASS Toolbar slot in viewport 0
+PASS Toolbar mouse selection 1
+PASS Toolbar slot in viewport 1
+PASS Toolbar mouse selection 2
+PASS Toolbar slot in viewport 2
+PASS Toolbar mouse selection 3
+PASS Toolbar slot in viewport 3
+PASS Toolbar mouse selection 4
+PASS Toolbar slot in viewport 4
+PASS Toolbar mouse selection 5
+PASS Toolbar slot in viewport 5
+PASS Toolbar mouse selection 6
+PASS Toolbar slot in viewport 6
+PASS Toolbar mouse selection 7
+PASS Toolbar slot in viewport 7
+PASS Toolbar mouse selection 8
+PASS Toolbar slot in viewport 8
+PASS Toolbar mouse selection 9
+PASS Toolbar slot in viewport 9
+PASS Toolbar mouse selection 10
+PASS Toolbar slot in viewport 10
+PASS Toolbar mouse selection 11
+PASS Toolbar slot in viewport 11
+PASS Toolbar mouse selection 12
+PASS Toolbar slot in viewport 12
+PASS UI clicks do not plant behind toolbar
+PASS Keyboard cycles crop selection
+PASS Buy updates selected crop stock
+PASS Buy charges correct account
+SCREENSHOT toolbar_stock.png (640, 360)
+PASS Sell clears stock
+PASS Cannot buy without money
+PASS Touch controls do not cover toolbar
+SCREENSHOT touch_toolbar.png (640, 360)
+PASS Player two walks through big-house door
+PASS Player one teleports once without parent offset
+PASS Player two enters the same room
+PASS Co-op camera stays active indoors
+PASS Camera centers inside house
+PASS Outdoor sign hidden inside
+PASS Farming toolbar hidden indoors
+SCREENSHOT bighouse_fixed.png (640, 360)
+PASS Indoor camera adapts to resized window
+PASS Male can walk indoors
+PASS Female can walk indoors
+PASS Both players use separate beds
+PASS Indoor actions do not plant crops
+SCREENSHOT beds_fixed.png (640, 360)
+PASS Movement gets both players out of bed
+PASS Left wall blocks walking out of floor
+PASS Female walks through exit and brings both outside
+PASS Outdoor camera limits restored
+PASS Toolbar and crop markers restored
+SCREENSHOT outside_again.png (640, 360)
+PASS Male enters house
+PASS Exit button works for house
+PASS Male enters barn
+PASS Female feeds barn animal with sound
+SCREENSHOT barn_fixed.png (640, 360)
+PASS Touch action feeds animal
+PASS Exit button works for barn
+PASS Male enters big_house
+PASS Switch to solo indoors
+PASS Solo camera shows room
+PASS Restore two players indoors
+PASS No outdoor markers after indoor co-op toggle
+PASS Exit button works for big_house
+PASS Walk through meadow portal
+SCREENSHOT meadow_fixed.png (1280, 720)
+PASS Farm scene reused on return
+PASS Farm co-op camera restored after travel
+PASS No portal bounce after return
+SCREENSHOT farm_return.png (640, 360)
+VERIFICATION COMPLETE: 0 failures

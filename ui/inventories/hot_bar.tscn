@@ -1,0 +1,166 @@
+[gd_scene load_steps=2 format=3 uid="uid://bil1eavx6mtih"]
+
+[ext_resource type="Script" path="res://ui/inventories/hot_bar.gd" id="1_avxkm"]
+
+[node name="HotBar" type="Control"]
+layout_mode = 3
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -288.0
+offset_top = -74.0
+offset_right = 288.0
+offset_bottom = -6.0
+grow_horizontal = 2
+grow_vertical = 0
+script = ExtResource("1_avxkm")
+
+[node name="Backdrop" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+
+[node name="SelectedCrop" type="Label" parent="."]
+layout_mode = 0
+offset_left = 12.0
+offset_top = 4.0
+offset_right = 476.0
+offset_bottom = 22.0
+mouse_filter = 2
+text = "Đang chọn: Củ dền"
+vertical_alignment = 1
+clip_text = true
+
+[node name="SlotsRect" type="Control" parent="."]
+layout_mode = 0
+offset_right = 476.0
+offset_bottom = 68.0
+mouse_filter = 1
+
+[node name="SlotsGrid" type="GridContainer" parent="SlotsRect"]
+layout_mode = 0
+offset_left = 10.0
+offset_top = 24.0
+offset_right = 476.0
+offset_bottom = 62.0
+theme_override_constants/h_separation = 2
+theme_override_constants/v_separation = 0
+columns = 13
+
+[node name="BeetSlot" type="Button" parent="SlotsRect/SlotsGrid"]
+custom_minimum_size = Vector2(34, 38)
+layout_mode = 2
+tooltip_text = "Củ dền"
+
+[node name="PotatoSlot" type="Button" parent="SlotsRect/SlotsGrid"]
+custom_minimum_size = Vector2(34, 38)
+layout_mode = 2
+tooltip_text = "Khoai tây"
+
+[node name="TomatoSlot" type="Button" parent="SlotsRect/SlotsGrid"]
+custom_minimum_size = Vector2(34, 38)
+layout_mode = 2
+tooltip_text = "Cà chua"
+
+[node name="FrenchBeansSlot" type="Button" parent="SlotsRect/SlotsGrid"]
+custom_minimum_size = Vector2(34, 38)
+layout_mode = 2
+tooltip_text = "Đậu cove"
+
+[node name="PumpkinSlot" type="Button" parent="SlotsRect/SlotsGrid"]
+custom_minimum_size = Vector2(34, 38)
+layout_mode = 2
+tooltip_text = "Bí ngô"
+
+[node name="CarrotSlot" type="Button" parent="SlotsRect/SlotsGrid"]
+custom_minimum_size = Vector2(34, 38)
+layout_mode = 2
+tooltip_text = "Cà rốt"
+
+[node name="OnionSlot" type="Button" parent="SlotsRect/SlotsGrid"]
+custom_minimum_size = Vector2(34, 38)
+layout_mode = 2
+tooltip_text = "Hành tây"
+
+[node name="CauliflowerSlot" type="Button" parent="SlotsRect/SlotsGrid"]
+custom_minimum_size = Vector2(34, 38)
+layout_mode = 2
+tooltip_text = "Súp lơ"
+
+[node name="TurnipSlot" type="Button" parent="SlotsRect/SlotsGrid"]
+custom_minimum_size = Vector2(34, 38)
+layout_mode = 2
+tooltip_text = "Củ cải"
+
+[node name="WheatSlot" type="Button" parent="SlotsRect/SlotsGrid"]
+custom_minimum_size = Vector2(34, 38)
+layout_mode = 2
+tooltip_text = "Lúa mì"
+
+[node name="GrapeSlot" type="Button" parent="SlotsRect/SlotsGrid"]
+custom_minimum_size = Vector2(34, 38)
+layout_mode = 2
+tooltip_text = "Nho"
+
+[node name="BerrySlot" type="Button" parent="SlotsRect/SlotsGrid"]
+custom_minimum_size = Vector2(34, 38)
+layout_mode = 2
+tooltip_text = "Dâu"
+
+[node name="OrangeSlot" type="Button" parent="SlotsRect/SlotsGrid"]
+custom_minimum_size = Vector2(34, 38)
+layout_mode = 2
+tooltip_text = "Cam"
+
+[node name="ShopRect" type="Control" parent="."]
+layout_mode = 0
+offset_left = 486.0
+offset_top = 6.0
+offset_right = 566.0
+offset_bottom = 62.0
+mouse_filter = 1
+
+[node name="BuyButton" type="Button" parent="ShopRect"]
+layout_mode = 0
+offset_right = 80.0
+offset_bottom = 26.0
+focus_mode = 0
+mouse_default_cursor_shape = 2
+
+[node name="Label" type="Label" parent="ShopRect/BuyButton"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+text = "MUA"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="SellButton" type="Button" parent="ShopRect"]
+layout_mode = 0
+offset_top = 30.0
+offset_right = 80.0
+offset_bottom = 56.0
+focus_mode = 0
+mouse_default_cursor_shape = 2
+
+[node name="Label" type="Label" parent="ShopRect/SellButton"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+text = "BÁN HẾT"
+horizontal_alignment = 1
+vertical_alignment = 1

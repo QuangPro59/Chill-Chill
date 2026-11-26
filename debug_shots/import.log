@@ -1,0 +1,314 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+[   0% ] first_scan_filesystem | Started Project initialization (5 steps)
+[   0% ] first_scan_filesystem | Scanning file structure...
+[  16% ] first_scan_filesystem | Loading global class names...
+[  33% ] first_scan_filesystem | Verifying GDExtensions...
+[  50% ] first_scan_filesystem | Creating autoload scripts...
+[  66% ] first_scan_filesystem | Initializing plugins...
+[  83% ] first_scan_filesystem | Starting file scan...
+[ DONE ] first_scan_filesystem
+
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_attackdwn_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_attackdwn_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_attackdwn_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_attackdwn_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_attackdwn_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_attackdwn_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_attackdwn_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_attackdwn_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_attacklft_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_attacklft_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_attacklft_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_attacklft_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_attacklft_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_attacklft_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_attacklft_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_attacklft_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_attackrgt_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_attackrgt_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_attackrgt_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_attackrgt_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_attackrgt_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_attackrgt_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_attackrgt_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_attackrgt_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_attackup_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_attackup_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_attackup_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_attackup_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_attackup_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_attackup_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_attackup_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_attackup_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_chopdwn_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_chopdwn_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_chopdwn_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_chopdwn_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_chopdwn_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_chopdwn_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_chopdwn_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_chopdwn_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_choplft_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_choplft_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_choplft_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_choplft_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_choplft_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_choplft_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_choplft_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_choplft_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_choprgt_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_choprgt_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_choprgt_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_choprgt_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_choprgt_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_choprgt_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_choprgt_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_choprgt_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_chopup_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_chopup_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_chopup_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_chopup_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_chopup_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_chopup_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_chopup_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_chopup_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_death_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_death_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_death_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_death_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_digdwn_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_digdwn_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_digdwn_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_digdwn_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_digdwn_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_digdwn_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_digdwn_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_digdwn_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_diglft_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_diglft_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_diglft_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_diglft_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_diglft_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_diglft_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_diglft_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_diglft_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_digrgt_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_digrgt_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_digrgt_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_digrgt_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_digrgt_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_digrgt_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_digrgt_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_digrgt_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_digup_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_digup_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_digup_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_digup_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_digup_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_digup_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_digup_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_digup_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idlecarrydwn_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idlecarrydwn_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idlecarrydwn_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idlecarrydwn_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idlecarrydwn_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idlecarrydwn_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idlecarrydwn_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idlecarrydwn_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idlecarrylft_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idlecarrylft_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idlecarrylft_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idlecarrylft_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idlecarrylft_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idlecarrylft_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idlecarrylft_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idlecarrylft_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idlecarryrgt_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idlecarryrgt_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idlecarryrgt_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idlecarryrgt_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idlecarryrgt_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idlecarryrgt_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idlecarryrgt_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idlecarryrgt_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idlecarryup_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idlecarryup_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idlecarryup_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idlecarryup_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idlecarryup_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idlecarryup_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idlecarryup_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idlecarryup_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idledwn_0-sheet.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idledwn_0-sheet.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idlelft_0-sheet.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idlelft_0-sheet.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idlergt_0-sheet.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idlergt_0-sheet.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_idleup_0-sheet.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_idleup_0-sheet.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_minedwn_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_minedwn_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_minedwn_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_minedwn_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_minedwn_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_minedwn_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_minedwn_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_minedwn_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_minelft_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_minelft_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_minelft_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_minelft_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_minelft_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_minelft_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_minelft_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_minelft_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_minergt_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_minergt_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_minergt_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_minergt_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_minergt_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_minergt_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_minergt_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_minergt_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_mineup_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_mineup_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_mineup_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_mineup_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_mineup_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_mineup_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_mineup_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_mineup_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_pickupdwn_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_pickupdwn_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_pickupdwn_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_pickupdwn_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_pickuplft_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_pickuplft_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_pickuplft_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_pickuplft_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_pickuprgt_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_pickuprgt_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_pickuprgt_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_pickuprgt_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_pickupup_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_pickupup_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_pickupup_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_pickupup_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_runcarrydwn_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_runcarrydwn_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_runcarrydwn_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_runcarrydwn_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_runcarrydwn_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_runcarrydwn_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_runcarrydwn_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_runcarrydwn_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_runcarrylft_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_runcarrylft_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_runcarrylft_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_runcarrylft_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_runcarrylft_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_runcarrylft_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_runcarrylft_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_runcarrylft_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_runcarryrgt_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_runcarryrgt_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_runcarryrgt_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_runcarryrgt_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_runcarryrgt_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_runcarryrgt_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_runcarryrgt_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_runcarryrgt_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_runcarryup_0.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_runcarryup_0.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_runcarryup_1.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_runcarryup_1.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_runcarryup_2.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_runcarryup_2.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_runcarryup_3.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_runcarryup_3.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_rundwn_0-sheet.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_rundwn_0-sheet.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_runlft_0-sheet.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_runlft_0-sheet.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_runrgt_0-Sheet-sheet.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_runrgt_0-Sheet-sheet.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://player/assets/farmer_0/tdfarmchar_0_runup_0-sheet.png and res://common/assets/images/characters/farmer_0/tdfarmchar_0_runup_0-sheet.png.
+   at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+[   0% ] update_scripts_classes | Started Registering global classes... (6 steps)
+[   0% ] update_scripts_classes | 
+[  14% ] update_scripts_classes | 
+[  28% ] update_scripts_classes | 
+[  42% ] update_scripts_classes | 
+[  57% ] update_scripts_classes | 
+[  71% ] update_scripts_classes | 
+[ DONE ] update_scripts_classes
+
+[   0% ] _update_scan_actions | Started Scanning actions... (15 steps)
+[   0% ] _update_scan_actions | barn_fixed.png
+[   6% ] _update_scan_actions | beds_fixed.png
+[  12% ] _update_scan_actions | bighouse_fixed.png
+[  18% ] _update_scan_actions | door_failure.png
+[  25% ] _update_scan_actions | exterior.png
+[  31% ] _update_scan_actions | failed_barn.png
+[  37% ] _update_scan_actions | failed_house.png
+[  43% ] _update_scan_actions | failed_portal.png
+[  50% ] _update_scan_actions | farm_fixed.png
+[  56% ] _update_scan_actions | house_details.png
+[  62% ] _update_scan_actions | names_dialog.png
+[  68% ] _update_scan_actions | outside_again.png
+[  75% ] _update_scan_actions | title_fixed.png
+[  81% ] _update_scan_actions | toolbar_stock.png
+[  87% ] _update_scan_actions | barn_floor.png
+[ DONE ] _update_scan_actions
+
+[   0% ] reimport | Started (Re)Importing Assets (15 steps)
+[   0% ] reimport | Preparing files to reimport...
+[   6% ] reimport | Preparing files to reimport...
+[  12% ] reimport | Preparing files to reimport...
+[  18% ] reimport | Preparing files to reimport...
+[  25% ] reimport | Preparing files to reimport...
+[  31% ] reimport | Preparing files to reimport...
+[  37% ] reimport | Preparing files to reimport...
+[  43% ] reimport | Preparing files to reimport...
+[  50% ] reimport | Preparing files to reimport...
+[  56% ] reimport | Preparing files to reimport...
+[  62% ] reimport | Preparing files to reimport...
+[  68% ] reimport | Preparing files to reimport...
+[  75% ] reimport | Preparing files to reimport...
+[  81% ] reimport | Preparing files to reimport...
+[  87% ] reimport | Preparing files to reimport...
+[   0% ] reimport | Executing pre-reimport operations...
+[   0% ] reimport | barn_fixed.png
+[   6% ] reimport | beds_fixed.png
+[  12% ] reimport | bighouse_fixed.png
+[  18% ] reimport | door_failure.png
+[  25% ] reimport | exterior.png
+[  31% ] reimport | failed_barn.png
+[  37% ] reimport | failed_house.png
+[  43% ] reimport | failed_portal.png
+[  50% ] reimport | farm_fixed.png
+[  56% ] reimport | house_details.png
+[  62% ] reimport | names_dialog.png
+[  68% ] reimport | outside_again.png
+[  75% ] reimport | title_fixed.png
+[  81% ] reimport | toolbar_stock.png
+[  87% ] reimport | barn_floor.png
+[  93% ] reimport | Finalizing Asset Import...
+[ DONE ] reimport
+
+[   0% ] reimport | Started (Re)Importing Assets (15 steps)
+[   0% ] reimport | Executing post-reimport operations...
+[ DONE ] reimport
+
+[   0% ] loading_editor_layout | Started Loading editor (5 steps)
+[   0% ] loading_editor_layout | Loading editor layout...
+[  16% ] loading_editor_layout | Loading docks...
+[  33% ] loading_editor_layout | Reopening scenes...
+[  50% ] loading_editor_layout | Loading central editor layout...
+[  66% ] loading_editor_layout | Loading plugin window layout...
+[  83% ] loading_editor_layout | Editor layout ready.
+[ DONE ] loading_editor_layout
+

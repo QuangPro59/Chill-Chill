@@ -1,0 +1,630 @@
+WorkerThreadPool: 24 threads, 7 max low-priority.
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+TextServer: Added interface "Dummy"
+TextServer: Added interface "ICU / HarfBuzz / Graphite (Built-in)"
+Accessibility: AccessKit driver loaded.
+Native OpenGL API detected: 3.3: NVIDIA - NVIDIA GeForce RTX 4050 Laptop GPU
+NVAPI: Init OK!
+NVAPI: Profile not found, creating...
+NVAPI: Application not found in profile, creating...
+NVAPI: Error creating application: NVAPI_EXECUTABLE_ALREADY_IN_USE(code -167)
+Accessibility: window 0 adapter created.
+SDL: Init OK!
+Using "winink" pen tablet driver...
+Shader 'CanvasSdfShaderGLES3' SHA256: 6bad0cd49d6a7f8282774646c7ed55673b09d53d26120e74f01f729952d4ab1c
+Shader 'SkeletonShaderGLES3' SHA256: 1981d7e7da15221dceb7fc3ce095521da9ca520e1875002fcbde006cdf7d5049
+Shader 'ParticlesShaderGLES3' SHA256: e84a6beec96caf546d244f62d3a6b782ec05b9bbe725ecc08f0cb420045880e6
+Shader 'ParticlesCopyShaderGLES3' SHA256: ea56bbcefc1fdf77d474b77cc5666f04e70ca53112992273244d5691bb1ae41c
+Shader 'CopyShaderGLES3' SHA256: 15b2bb6160455657a766a9b833f8d72088dd43ed797238da422c67c0896de30a
+Shader 'CubemapFilterShaderGLES3' SHA256: 2c0d32426ded173b1d0057397875853a3a62f9c62df0a27aed35302537c731e6
+Shader 'GlowShaderGLES3' SHA256: b7b00a9777dd783d6e5e59e832117e5745f1faa15902d4bf24291e062206c9d6
+Shader 'PostShaderGLES3' SHA256: f28524471a9d28bdbb51c4124c5daaca3b1aa8732651b489a0caad5d0502258f
+Shader 'FeedShaderGLES3' SHA256: 7ae096e3e223dbd98631324b76ae44a2a843a4134844a6d75ae0ee2fa00b45c7
+Shader 'CanvasShaderGLES3' SHA256: e5d312b538f199003da78db2cd49461d918aa55253cdce11a6ee9a2eb6c5a388
+Shader 'CanvasOcclusionShaderGLES3' SHA256: c503c29808089fa5bd288155bb556285df71456f67577391c5dcc7f8516f844d
+Shader 'SceneShaderGLES3' SHA256: 4f9942ee8d98824daf8dadff38a7cf3016062dfba671d2248fb6a50e950bd23b
+Shader 'SkyShaderGLES3' SHA256: e7e8dec8f9a06d1d28b7e7a2443c67439b53b1edb079f682eb1320433d675dfd
+Shader 'TexBlitShaderGLES3' SHA256: 32e014736355e8663b0efc904171b717256da371c6aa724760ff309295923962
+OpenGL API 3.3.0 NVIDIA 621.24 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 4050 Laptop GPU
+WASAPI: Activated output_device using IAudioClient3 interface
+WASAPI: wFormatTag = 65534
+WASAPI: nChannels = 2
+WASAPI: nSamplesPerSec = 48000
+WASAPI: nAvgBytesPerSec = 384000
+WASAPI: nBlockAlign = 8
+WASAPI: wBitsPerSample = 32
+WASAPI: cbSize = 22
+WASAPI: mix_rate = 48000
+WASAPI: fundamental_period_frames = 480
+WASAPI: min_period_frames = 480
+WASAPI: max_period_frames = 480
+WASAPI: selected a period frame size of 480
+WASAPI: detected 2 channels
+WASAPI: audio buffer frames: 480 calculated latency: 10ms
+
+TextServer: Primary interface set to: "ICU / HarfBuzz / Graphite (Built-in)".
+CORE API HASH: 2004498165
+EDITOR API HASH: 1696660745
+SceneTreeFTI: traversal method DEFAULT
+Loading resource: res://crops/crops_preloader.tscn remapped: res://crops/crops_preloader.tscn
+Loading resource: res://crops/crop_species/beet.tscn remapped: res://crops/crop_species/beet.tscn
+Loading resource: res://crops/crop.gd remapped: res://crops/crop.gd
+Loading resource: res://crops/assets/info_bubbles/deficiency_bubble.png remapped: res://crops/assets/info_bubbles/deficiency_bubble.png
+Loading resource: res://.godot/imported/deficiency_bubble.png-66c6aa277ca490987f2429847c205947.ctex remapped: res://.godot/imported/deficiency_bubble.png-66c6aa277ca490987f2429847c205947.ctex
+Completed load for: 'res://crops/assets/info_bubbles/deficiency_bubble.png' remapped 'res://crops/assets/info_bubbles/deficiency_bubble.png' at thread -1
+Loading resource: res://crops/assets/info_bubbles/sick_bubble.png remapped: res://crops/assets/info_bubbles/sick_bubble.png
+Loading resource: res://.godot/imported/sick_bubble.png-8fe2d40b10e48d15afb2dce00251f97d.ctex remapped: res://.godot/imported/sick_bubble.png-8fe2d40b10e48d15afb2dce00251f97d.ctex
+Completed load for: 'res://crops/assets/info_bubbles/sick_bubble.png' remapped 'res://crops/assets/info_bubbles/sick_bubble.png' at thread -1
+Loading resource: res://crops/assets/info_bubbles/mature_bubble.png remapped: res://crops/assets/info_bubbles/mature_bubble.png
+Loading resource: res://.godot/imported/mature_bubble.png-a65ab0936ac8f20fdd132ee9b7fbccfb.ctex remapped: res://.godot/imported/mature_bubble.png-a65ab0936ac8f20fdd132ee9b7fbccfb.ctex
+Completed load for: 'res://crops/assets/info_bubbles/mature_bubble.png' remapped 'res://crops/assets/info_bubbles/mature_bubble.png' at thread -1
+Completed load for: 'res://crops/crop.gd' remapped 'res://crops/crop.gd' at thread -1
+Loading resource: res://crops/assets/crops_stages/beet.png remapped: res://crops/assets/crops_stages/beet.png
+Loading resource: res://.godot/imported/beet.png-a98a88da13232b825946fc4fa011c531.ctex remapped: res://.godot/imported/beet.png-a98a88da13232b825946fc4fa011c531.ctex
+Completed load for: 'res://crops/assets/crops_stages/beet.png' remapped 'res://crops/assets/crops_stages/beet.png' at thread -1
+Loading resource: res://crops/assets/vegetables/beetroot.png remapped: res://crops/assets/vegetables/beetroot.png
+Loading resource: res://.godot/imported/beetroot.png-e40715715e690e29a9bec733b8e42a9d.ctex remapped: res://.godot/imported/beetroot.png-e40715715e690e29a9bec733b8e42a9d.ctex
+Completed load for: 'res://crops/assets/vegetables/beetroot.png' remapped 'res://crops/assets/vegetables/beetroot.png' at thread -1
+Completed load for: 'res://crops/crop_species/beet.tscn' remapped 'res://crops/crop_species/beet.tscn' at thread -1
+Loading resource: res://crops/crop_species/carrot.tscn remapped: res://crops/crop_species/carrot.tscn
+Loading resource: res://crops/assets/crops_stages/carrot.png remapped: res://crops/assets/crops_stages/carrot.png
+Loading resource: res://.godot/imported/carrot.png-a24ed58bd07428f038ce2de9d0044f93.ctex remapped: res://.godot/imported/carrot.png-a24ed58bd07428f038ce2de9d0044f93.ctex
+Completed load for: 'res://crops/assets/crops_stages/carrot.png' remapped 'res://crops/assets/crops_stages/carrot.png' at thread -1
+Loading resource: res://crops/assets/vegetables/carrot.png remapped: res://crops/assets/vegetables/carrot.png
+Loading resource: res://.godot/imported/carrot.png-e333f98442bd2e5616132966bbcd0620.ctex remapped: res://.godot/imported/carrot.png-e333f98442bd2e5616132966bbcd0620.ctex
+Completed load for: 'res://crops/assets/vegetables/carrot.png' remapped 'res://crops/assets/vegetables/carrot.png' at thread -1
+Completed load for: 'res://crops/crop_species/carrot.tscn' remapped 'res://crops/crop_species/carrot.tscn' at thread -1
+Loading resource: res://crops/crop_species/cauliflower.tscn remapped: res://crops/crop_species/cauliflower.tscn
+Loading resource: res://crops/assets/crops_stages/cauliflower.png remapped: res://crops/assets/crops_stages/cauliflower.png
+Loading resource: res://.godot/imported/cauliflower.png-364da1cf5006e93e0d26f334c8e1a81d.ctex remapped: res://.godot/imported/cauliflower.png-364da1cf5006e93e0d26f334c8e1a81d.ctex
+Completed load for: 'res://crops/assets/crops_stages/cauliflower.png' remapped 'res://crops/assets/crops_stages/cauliflower.png' at thread -1
+Loading resource: res://crops/assets/vegetables/cauliflower.png remapped: res://crops/assets/vegetables/cauliflower.png
+Loading resource: res://.godot/imported/cauliflower.png-b29b00cea37c0b6663b92ae6fe20ac5e.ctex remapped: res://.godot/imported/cauliflower.png-b29b00cea37c0b6663b92ae6fe20ac5e.ctex
+Completed load for: 'res://crops/assets/vegetables/cauliflower.png' remapped 'res://crops/assets/vegetables/cauliflower.png' at thread -1
+Completed load for: 'res://crops/crop_species/cauliflower.tscn' remapped 'res://crops/crop_species/cauliflower.tscn' at thread -1
+Loading resource: res://crops/crop_species/french_beans.tscn remapped: res://crops/crop_species/french_beans.tscn
+Loading resource: res://crops/assets/crops_stages/french_beans.png remapped: res://crops/assets/crops_stages/french_beans.png
+Loading resource: res://.godot/imported/french_beans.png-debf17cfe0707b909af3331dfec69028.ctex remapped: res://.godot/imported/french_beans.png-debf17cfe0707b909af3331dfec69028.ctex
+Completed load for: 'res://crops/assets/crops_stages/french_beans.png' remapped 'res://crops/assets/crops_stages/french_beans.png' at thread -1
+Loading resource: res://crops/assets/vegetables/french_beans.png remapped: res://crops/assets/vegetables/french_beans.png
+Loading resource: res://.godot/imported/french_beans.png-0520f09c7749f89da2d84d58bd25d1e8.ctex remapped: res://.godot/imported/french_beans.png-0520f09c7749f89da2d84d58bd25d1e8.ctex
+Completed load for: 'res://crops/assets/vegetables/french_beans.png' remapped 'res://crops/assets/vegetables/french_beans.png' at thread -1
+Completed load for: 'res://crops/crop_species/french_beans.tscn' remapped 'res://crops/crop_species/french_beans.tscn' at thread -1
+Loading resource: res://crops/crop_species/onion.tscn remapped: res://crops/crop_species/onion.tscn
+Loading resource: res://crops/assets/crops_stages/onion.png remapped: res://crops/assets/crops_stages/onion.png
+Loading resource: res://.godot/imported/onion.png-8873a60ffa78198a6e313f91b8a655cb.ctex remapped: res://.godot/imported/onion.png-8873a60ffa78198a6e313f91b8a655cb.ctex
+Completed load for: 'res://crops/assets/crops_stages/onion.png' remapped 'res://crops/assets/crops_stages/onion.png' at thread -1
+Loading resource: res://crops/assets/vegetables/onion.png remapped: res://crops/assets/vegetables/onion.png
+Loading resource: res://.godot/imported/onion.png-b2b4a6bace01d98c09db77403b73dcc9.ctex remapped: res://.godot/imported/onion.png-b2b4a6bace01d98c09db77403b73dcc9.ctex
+Completed load for: 'res://crops/assets/vegetables/onion.png' remapped 'res://crops/assets/vegetables/onion.png' at thread -1
+Completed load for: 'res://crops/crop_species/onion.tscn' remapped 'res://crops/crop_species/onion.tscn' at thread -1
+Loading resource: res://crops/crop_species/potato.tscn remapped: res://crops/crop_species/potato.tscn
+Loading resource: res://crops/assets/crops_stages/potato.png remapped: res://crops/assets/crops_stages/potato.png
+Loading resource: res://.godot/imported/potato.png-51f7490f1fbc130fe1d7d77a04ca79ff.ctex remapped: res://.godot/imported/potato.png-51f7490f1fbc130fe1d7d77a04ca79ff.ctex
+Completed load for: 'res://crops/assets/crops_stages/potato.png' remapped 'res://crops/assets/crops_stages/potato.png' at thread -1
+Loading resource: res://crops/assets/vegetables/potato.png remapped: res://crops/assets/vegetables/potato.png
+Loading resource: res://.godot/imported/potato.png-65d20fcb4252f28a48921d40150bd6f6.ctex remapped: res://.godot/imported/potato.png-65d20fcb4252f28a48921d40150bd6f6.ctex
+Completed load for: 'res://crops/assets/vegetables/potato.png' remapped 'res://crops/assets/vegetables/potato.png' at thread -1
+Completed load for: 'res://crops/crop_species/potato.tscn' remapped 'res://crops/crop_species/potato.tscn' at thread -1
+Loading resource: res://crops/crop_species/pumpkin.tscn remapped: res://crops/crop_species/pumpkin.tscn
+Loading resource: res://crops/assets/crops_stages/pumpkin.png remapped: res://crops/assets/crops_stages/pumpkin.png
+Loading resource: res://.godot/imported/pumpkin.png-184158ffab4bf640ad8c21444ae58cb9.ctex remapped: res://.godot/imported/pumpkin.png-184158ffab4bf640ad8c21444ae58cb9.ctex
+Completed load for: 'res://crops/assets/crops_stages/pumpkin.png' remapped 'res://crops/assets/crops_stages/pumpkin.png' at thread -1
+Loading resource: res://crops/assets/vegetables/pumpkin.png remapped: res://crops/assets/vegetables/pumpkin.png
+Loading resource: res://.godot/imported/pumpkin.png-78571348bf638c7dfdb884a8e74c58ea.ctex remapped: res://.godot/imported/pumpkin.png-78571348bf638c7dfdb884a8e74c58ea.ctex
+Completed load for: 'res://crops/assets/vegetables/pumpkin.png' remapped 'res://crops/assets/vegetables/pumpkin.png' at thread -1
+Completed load for: 'res://crops/crop_species/pumpkin.tscn' remapped 'res://crops/crop_species/pumpkin.tscn' at thread -1
+Loading resource: res://crops/crop_species/tomato.tscn remapped: res://crops/crop_species/tomato.tscn
+Loading resource: res://crops/assets/crops_stages/tomato.png remapped: res://crops/assets/crops_stages/tomato.png
+Loading resource: res://.godot/imported/tomato.png-b1ec4b535c4797584f9b6d169b182a4e.ctex remapped: res://.godot/imported/tomato.png-b1ec4b535c4797584f9b6d169b182a4e.ctex
+Completed load for: 'res://crops/assets/crops_stages/tomato.png' remapped 'res://crops/assets/crops_stages/tomato.png' at thread -1
+Loading resource: res://crops/assets/vegetables/tomato.png remapped: res://crops/assets/vegetables/tomato.png
+Loading resource: res://.godot/imported/tomato.png-f53a5089b9d444c51c7955af5d4ce571.ctex remapped: res://.godot/imported/tomato.png-f53a5089b9d444c51c7955af5d4ce571.ctex
+Completed load for: 'res://crops/assets/vegetables/tomato.png' remapped 'res://crops/assets/vegetables/tomato.png' at thread -1
+Completed load for: 'res://crops/crop_species/tomato.tscn' remapped 'res://crops/crop_species/tomato.tscn' at thread -1
+Loading resource: res://crops/crop_species/turnip.tscn remapped: res://crops/crop_species/turnip.tscn
+Loading resource: res://crops/assets/crops_stages/turnip.png remapped: res://crops/assets/crops_stages/turnip.png
+Loading resource: res://.godot/imported/turnip.png-6e3ffa66ac48d7053a3e11870c5e36d2.ctex remapped: res://.godot/imported/turnip.png-6e3ffa66ac48d7053a3e11870c5e36d2.ctex
+Completed load for: 'res://crops/assets/crops_stages/turnip.png' remapped 'res://crops/assets/crops_stages/turnip.png' at thread -1
+Loading resource: res://crops/assets/vegetables/turnip.png remapped: res://crops/assets/vegetables/turnip.png
+Loading resource: res://.godot/imported/turnip.png-ba04efc5e041d61e11a49611acfbdd26.ctex remapped: res://.godot/imported/turnip.png-ba04efc5e041d61e11a49611acfbdd26.ctex
+Completed load for: 'res://crops/assets/vegetables/turnip.png' remapped 'res://crops/assets/vegetables/turnip.png' at thread -1
+Completed load for: 'res://crops/crop_species/turnip.tscn' remapped 'res://crops/crop_species/turnip.tscn' at thread -1
+Loading resource: res://crops/crop_species/wheat.tscn remapped: res://crops/crop_species/wheat.tscn
+Loading resource: res://crops/assets/crops_stages/wheat.png remapped: res://crops/assets/crops_stages/wheat.png
+Loading resource: res://.godot/imported/wheat.png-89571cb173fd1c6b687e516db4b916a1.ctex remapped: res://.godot/imported/wheat.png-89571cb173fd1c6b687e516db4b916a1.ctex
+Completed load for: 'res://crops/assets/crops_stages/wheat.png' remapped 'res://crops/assets/crops_stages/wheat.png' at thread -1
+Loading resource: res://crops/assets/vegetables/wheat.png remapped: res://crops/assets/vegetables/wheat.png
+Loading resource: res://.godot/imported/wheat.png-7a4b8e3101e86d545cb9c91d5e2b8ddf.ctex remapped: res://.godot/imported/wheat.png-7a4b8e3101e86d545cb9c91d5e2b8ddf.ctex
+Completed load for: 'res://crops/assets/vegetables/wheat.png' remapped 'res://crops/assets/vegetables/wheat.png' at thread -1
+Completed load for: 'res://crops/crop_species/wheat.tscn' remapped 'res://crops/crop_species/wheat.tscn' at thread -1
+Loading resource: res://crops/crop_species/grape.tscn remapped: res://crops/crop_species/grape.tscn
+Loading resource: res://crops/assets/crops_stages/grape.png remapped: res://crops/assets/crops_stages/grape.png
+Loading resource: res://.godot/imported/grape.png-415aedba7d96d7edc690b0711e808cc3.ctex remapped: res://.godot/imported/grape.png-415aedba7d96d7edc690b0711e808cc3.ctex
+Completed load for: 'res://crops/assets/crops_stages/grape.png' remapped 'res://crops/assets/crops_stages/grape.png' at thread -1
+Loading resource: res://crops/assets/vegetables/grape.png remapped: res://crops/assets/vegetables/grape.png
+Loading resource: res://.godot/imported/grape.png-4b99b7b693b4a86e23f24a1ef09fafab.ctex remapped: res://.godot/imported/grape.png-4b99b7b693b4a86e23f24a1ef09fafab.ctex
+Completed load for: 'res://crops/assets/vegetables/grape.png' remapped 'res://crops/assets/vegetables/grape.png' at thread -1
+Completed load for: 'res://crops/crop_species/grape.tscn' remapped 'res://crops/crop_species/grape.tscn' at thread -1
+Loading resource: res://crops/crop_species/berry.tscn remapped: res://crops/crop_species/berry.tscn
+Loading resource: res://crops/assets/crops_stages/berry.png remapped: res://crops/assets/crops_stages/berry.png
+Loading resource: res://.godot/imported/berry.png-c577effaa7d0cafbdc815cbfefe67642.ctex remapped: res://.godot/imported/berry.png-c577effaa7d0cafbdc815cbfefe67642.ctex
+Completed load for: 'res://crops/assets/crops_stages/berry.png' remapped 'res://crops/assets/crops_stages/berry.png' at thread -1
+Loading resource: res://crops/assets/vegetables/berry.png remapped: res://crops/assets/vegetables/berry.png
+Loading resource: res://.godot/imported/berry.png-ebfd7342cb234650ec1e807ae54cee49.ctex remapped: res://.godot/imported/berry.png-ebfd7342cb234650ec1e807ae54cee49.ctex
+Completed load for: 'res://crops/assets/vegetables/berry.png' remapped 'res://crops/assets/vegetables/berry.png' at thread -1
+Completed load for: 'res://crops/crop_species/berry.tscn' remapped 'res://crops/crop_species/berry.tscn' at thread -1
+Loading resource: res://crops/crop_species/orange.tscn remapped: res://crops/crop_species/orange.tscn
+Loading resource: res://crops/assets/crops_stages/orange.png remapped: res://crops/assets/crops_stages/orange.png
+Loading resource: res://.godot/imported/orange.png-8c044c2cd431b9bfbbddbce24dfa3e33.ctex remapped: res://.godot/imported/orange.png-8c044c2cd431b9bfbbddbce24dfa3e33.ctex
+Completed load for: 'res://crops/assets/crops_stages/orange.png' remapped 'res://crops/assets/crops_stages/orange.png' at thread -1
+Loading resource: res://crops/assets/vegetables/orange.png remapped: res://crops/assets/vegetables/orange.png
+Loading resource: res://.godot/imported/orange.png-cefa4e0eedb540fef3dc9965518abbf5.ctex remapped: res://.godot/imported/orange.png-cefa4e0eedb540fef3dc9965518abbf5.ctex
+Completed load for: 'res://crops/assets/vegetables/orange.png' remapped 'res://crops/assets/vegetables/orange.png' at thread -1
+Completed load for: 'res://crops/crop_species/orange.tscn' remapped 'res://crops/crop_species/orange.tscn' at thread -1
+Completed load for: 'res://crops/crops_preloader.tscn' remapped 'res://crops/crops_preloader.tscn' at thread -1
+Loading resource: res://sounds/SoundScene.tscn remapped: res://sounds/SoundScene.tscn
+Loading resource: res://sounds/Sound.gd remapped: res://sounds/Sound.gd
+Completed load for: 'res://sounds/Sound.gd' remapped 'res://sounds/Sound.gd' at thread -1
+Loading resource: res://sounds/Untitled_Farming_Sim_-_overture.mp3 remapped: res://sounds/Untitled_Farming_Sim_-_overture.mp3
+Loading resource: res://.godot/imported/Untitled_Farming_Sim_-_overture.mp3-0e6b1394e6bb174b4494349bd00ba174.mp3str remapped: res://.godot/imported/Untitled_Farming_Sim_-_overture.mp3-0e6b1394e6bb174b4494349bd00ba174.mp3str
+Completed load for: 'res://sounds/Untitled_Farming_Sim_-_overture.mp3' remapped 'res://sounds/Untitled_Farming_Sim_-_overture.mp3' at thread -1
+Loading resource: res://sounds/Agraria_-_sowing.wav remapped: res://sounds/Agraria_-_sowing.wav
+Loading resource: res://.godot/imported/Agraria_-_sowing.wav-b79fe558b5c2d6b84d1658ee5f561666.sample remapped: res://.godot/imported/Agraria_-_sowing.wav-b79fe558b5c2d6b84d1658ee5f561666.sample
+Completed load for: 'res://sounds/Agraria_-_sowing.wav' remapped 'res://sounds/Agraria_-_sowing.wav' at thread -1
+Loading resource: res://sounds/Agraria_-_harvesting.wav remapped: res://sounds/Agraria_-_harvesting.wav
+Loading resource: res://.godot/imported/Agraria_-_harvesting.wav-7f207db3f0f486ec9c0558ea0ead56e9.sample remapped: res://.godot/imported/Agraria_-_harvesting.wav-7f207db3f0f486ec9c0558ea0ead56e9.sample
+Completed load for: 'res://sounds/Agraria_-_harvesting.wav' remapped 'res://sounds/Agraria_-_harvesting.wav' at thread -1
+Loading resource: res://sounds/Agraria_-_left_foot.wav remapped: res://sounds/Agraria_-_left_foot.wav
+Loading resource: res://.godot/imported/Agraria_-_left_foot.wav-9bd369262c7324c8c05f5890ee365561.sample remapped: res://.godot/imported/Agraria_-_left_foot.wav-9bd369262c7324c8c05f5890ee365561.sample
+Completed load for: 'res://sounds/Agraria_-_left_foot.wav' remapped 'res://sounds/Agraria_-_left_foot.wav' at thread -1
+Loading resource: res://sounds/Agraria_-_right_foot.wav remapped: res://sounds/Agraria_-_right_foot.wav
+Loading resource: res://.godot/imported/Agraria_-_right_foot.wav-1659a455428e34d7df28073f835cc5b8.sample remapped: res://.godot/imported/Agraria_-_right_foot.wav-1659a455428e34d7df28073f835cc5b8.sample
+Completed load for: 'res://sounds/Agraria_-_right_foot.wav' remapped 'res://sounds/Agraria_-_right_foot.wav' at thread -1
+Loading resource: res://sounds/Agraria_-_cow_goes_moo.wav remapped: res://sounds/Agraria_-_cow_goes_moo.wav
+Loading resource: res://.godot/imported/Agraria_-_cow_goes_moo.wav-c140a2bfe2688934ce14b067771e73de.sample remapped: res://.godot/imported/Agraria_-_cow_goes_moo.wav-c140a2bfe2688934ce14b067771e73de.sample
+Completed load for: 'res://sounds/Agraria_-_cow_goes_moo.wav' remapped 'res://sounds/Agraria_-_cow_goes_moo.wav' at thread -1
+Completed load for: 'res://sounds/SoundScene.tscn' remapped 'res://sounds/SoundScene.tscn' at thread -1
+Loading resource: res://game_switcher.gd remapped: res://game_switcher.gd
+Completed load for: 'res://game_switcher.gd' remapped 'res://game_switcher.gd' at thread -1
+Loading resource: res://farm_state.gd remapped: res://farm_state.gd
+Completed load for: 'res://farm_state.gd' remapped 'res://farm_state.gd' at thread -1
+Loaded system CA certificates
+Loading resource: res://debug_shots.tscn remapped: res://debug_shots.tscn
+Loading resource: res://debug_shots.gd remapped: res://debug_shots.gd
+Completed load for: 'res://debug_shots.gd' remapped 'res://debug_shots.gd' at thread -1
+Completed load for: 'res://debug_shots.tscn' remapped 'res://debug_shots.tscn' at thread -1
+Loading resource: res://couple/couple_manager.gd remapped: res://couple/couple_manager.gd
+Completed load for: 'res://couple/couple_manager.gd' remapped 'res://couple/couple_manager.gd' at thread -1
+PASS Isolated test save path: res://couple/couple_manager.gd
+Loading resource: res://chill_chill/main.gd remapped: res://chill_chill/main.gd
+Completed load for: 'res://chill_chill/main.gd' remapped 'res://chill_chill/main.gd' at thread -1
+PASS Isolated test save path: res://chill_chill/main.gd
+Loading resource: res://game.tscn remapped: res://game.tscn
+Loading resource: res://game.gd remapped: res://game.gd
+Completed load for: 'res://game.gd' remapped 'res://game.gd' at thread -1
+Loading resource: res://title_screen.tscn remapped: res://title_screen.tscn
+Loading resource: res://title_screen.gd remapped: res://title_screen.gd
+Completed load for: 'res://title_screen.gd' remapped 'res://title_screen.gd' at thread -1
+Loading resource: res://world/world_tilemap/world_map_tileset.tres remapped: res://world/world_tilemap/world_map_tileset.tres
+Loading resource: res://world/world_tilemap/assets/tileset_tdfarmtiles_grass.png remapped: res://world/world_tilemap/assets/tileset_tdfarmtiles_grass.png
+Loading resource: res://.godot/imported/tileset_tdfarmtiles_grass.png-8562c0b707a0ffef9ae7b4a72e730f82.ctex remapped: res://.godot/imported/tileset_tdfarmtiles_grass.png-8562c0b707a0ffef9ae7b4a72e730f82.ctex
+Completed load for: 'res://world/world_tilemap/assets/tileset_tdfarmtiles_grass.png' remapped 'res://world/world_tilemap/assets/tileset_tdfarmtiles_grass.png' at thread -1
+Loading resource: res://world/world_tilemap/assets/tileset_tdfarmtiles_rockypath.png remapped: res://world/world_tilemap/assets/tileset_tdfarmtiles_rockypath.png
+Loading resource: res://.godot/imported/tileset_tdfarmtiles_rockypath.png-7142fd6729ee3e6691f77e6217fb6eb5.ctex remapped: res://.godot/imported/tileset_tdfarmtiles_rockypath.png-7142fd6729ee3e6691f77e6217fb6eb5.ctex
+Completed load for: 'res://world/world_tilemap/assets/tileset_tdfarmtiles_rockypath.png' remapped 'res://world/world_tilemap/assets/tileset_tdfarmtiles_rockypath.png' at thread -1
+Loading resource: res://world/world_tilemap/assets/tdfarmobj_house_0.png remapped: res://world/world_tilemap/assets/tdfarmobj_house_0.png
+Loading resource: res://.godot/imported/tdfarmobj_house_0.png-2bd5b5492f7fe99dffe220c963b3a168.ctex remapped: res://.godot/imported/tdfarmobj_house_0.png-2bd5b5492f7fe99dffe220c963b3a168.ctex
+Completed load for: 'res://world/world_tilemap/assets/tdfarmobj_house_0.png' remapped 'res://world/world_tilemap/assets/tdfarmobj_house_0.png' at thread -1
+Loading resource: res://world/world_tilemap/assets/tdfarmobj_house_1.png remapped: res://world/world_tilemap/assets/tdfarmobj_house_1.png
+Loading resource: res://.godot/imported/tdfarmobj_house_1.png-71a66117576776eb58357765f7e0b3b8.ctex remapped: res://.godot/imported/tdfarmobj_house_1.png-71a66117576776eb58357765f7e0b3b8.ctex
+Completed load for: 'res://world/world_tilemap/assets/tdfarmobj_house_1.png' remapped 'res://world/world_tilemap/assets/tdfarmobj_house_1.png' at thread -1
+Loading resource: res://world/world_tilemap/assets/tdfarmobj_stone_0.png remapped: res://world/world_tilemap/assets/tdfarmobj_stone_0.png
+Loading resource: res://.godot/imported/tdfarmobj_stone_0.png-8082094051c1ee4b3603889b95115b07.ctex remapped: res://.godot/imported/tdfarmobj_stone_0.png-8082094051c1ee4b3603889b95115b07.ctex
+Completed load for: 'res://world/world_tilemap/assets/tdfarmobj_stone_0.png' remapped 'res://world/world_tilemap/assets/tdfarmobj_stone_0.png' at thread -1
+Loading resource: res://world/world_tilemap/assets/tileset_tdfarmtiles_fence.png remapped: res://world/world_tilemap/assets/tileset_tdfarmtiles_fence.png
+Loading resource: res://.godot/imported/tileset_tdfarmtiles_fence.png-241e338328b977042067277e71d7035d.ctex remapped: res://.godot/imported/tileset_tdfarmtiles_fence.png-241e338328b977042067277e71d7035d.ctex
+Completed load for: 'res://world/world_tilemap/assets/tileset_tdfarmtiles_fence.png' remapped 'res://world/world_tilemap/assets/tileset_tdfarmtiles_fence.png' at thread -1
+Loading resource: res://world/world_tilemap/assets/tdfarmobj_stone_1.png remapped: res://world/world_tilemap/assets/tdfarmobj_stone_1.png
+Loading resource: res://.godot/imported/tdfarmobj_stone_1.png-a1527a6eceaf8ad8141f2775bcdc0942.ctex remapped: res://.godot/imported/tdfarmobj_stone_1.png-a1527a6eceaf8ad8141f2775bcdc0942.ctex
+Completed load for: 'res://world/world_tilemap/assets/tdfarmobj_stone_1.png' remapped 'res://world/world_tilemap/assets/tdfarmobj_stone_1.png' at thread -1
+Loading resource: res://world/world_tilemap/assets/tdfarmobj_stone_2.png remapped: res://world/world_tilemap/assets/tdfarmobj_stone_2.png
+Loading resource: res://.godot/imported/tdfarmobj_stone_2.png-380667a4420ef78cc16af5c1442d4d77.ctex remapped: res://.godot/imported/tdfarmobj_stone_2.png-380667a4420ef78cc16af5c1442d4d77.ctex
+Completed load for: 'res://world/world_tilemap/assets/tdfarmobj_stone_2.png' remapped 'res://world/world_tilemap/assets/tdfarmobj_stone_2.png' at thread -1
+Loading resource: res://world/world_tilemap/assets/tdfarmobj_tree_0_0.png remapped: res://world/world_tilemap/assets/tdfarmobj_tree_0_0.png
+Loading resource: res://.godot/imported/tdfarmobj_tree_0_0.png-2c934466bc53942163f6efcbc177e5e3.ctex remapped: res://.godot/imported/tdfarmobj_tree_0_0.png-2c934466bc53942163f6efcbc177e5e3.ctex
+Completed load for: 'res://world/world_tilemap/assets/tdfarmobj_tree_0_0.png' remapped 'res://world/world_tilemap/assets/tdfarmobj_tree_0_0.png' at thread -1
+Loading resource: res://world/world_tilemap/assets/tdfarmobj_tree_0_1.png remapped: res://world/world_tilemap/assets/tdfarmobj_tree_0_1.png
+Loading resource: res://.godot/imported/tdfarmobj_tree_0_1.png-77d949cab4b95146e67270916be32ecd.ctex remapped: res://.godot/imported/tdfarmobj_tree_0_1.png-77d949cab4b95146e67270916be32ecd.ctex
+Completed load for: 'res://world/world_tilemap/assets/tdfarmobj_tree_0_1.png' remapped 'res://world/world_tilemap/assets/tdfarmobj_tree_0_1.png' at thread -1
+Loading resource: res://world/world_tilemap/assets/tdfarmobj_tree_0_3.png remapped: res://world/world_tilemap/assets/tdfarmobj_tree_0_3.png
+Loading resource: res://.godot/imported/tdfarmobj_tree_0_3.png-f404cb977266d9094cc38c27b2bf6abf.ctex remapped: res://.godot/imported/tdfarmobj_tree_0_3.png-f404cb977266d9094cc38c27b2bf6abf.ctex
+Completed load for: 'res://world/world_tilemap/assets/tdfarmobj_tree_0_3.png' remapped 'res://world/world_tilemap/assets/tdfarmobj_tree_0_3.png' at thread -1
+Loading resource: res://world/world_tilemap/assets/tdfarmobj_tree_0_2.png remapped: res://world/world_tilemap/assets/tdfarmobj_tree_0_2.png
+Loading resource: res://.godot/imported/tdfarmobj_tree_0_2.png-7c09133227d2254fd0ae6c9b1b1691ac.ctex remapped: res://.godot/imported/tdfarmobj_tree_0_2.png-7c09133227d2254fd0ae6c9b1b1691ac.ctex
+Completed load for: 'res://world/world_tilemap/assets/tdfarmobj_tree_0_2.png' remapped 'res://world/world_tilemap/assets/tdfarmobj_tree_0_2.png' at thread -1
+Loading resource: res://world/world_tilemap/assets/tileset_tdfarmtiles_dirtwet.png remapped: res://world/world_tilemap/assets/tileset_tdfarmtiles_dirtwet.png
+Loading resource: res://.godot/imported/tileset_tdfarmtiles_dirtwet.png-b81bab28e8c560e16974a5f50ac21b55.ctex remapped: res://.godot/imported/tileset_tdfarmtiles_dirtwet.png-b81bab28e8c560e16974a5f50ac21b55.ctex
+Completed load for: 'res://world/world_tilemap/assets/tileset_tdfarmtiles_dirtwet.png' remapped 'res://world/world_tilemap/assets/tileset_tdfarmtiles_dirtwet.png' at thread -1
+Loading resource: res://world/world_tilemap/assets/tileset_tdfarmtiles_dirt.png remapped: res://world/world_tilemap/assets/tileset_tdfarmtiles_dirt.png
+Loading resource: res://.godot/imported/tileset_tdfarmtiles_dirt.png-e137ccad0719987ff17922467ce3a02f.ctex remapped: res://.godot/imported/tileset_tdfarmtiles_dirt.png-e137ccad0719987ff17922467ce3a02f.ctex
+Completed load for: 'res://world/world_tilemap/assets/tileset_tdfarmtiles_dirt.png' remapped 'res://world/world_tilemap/assets/tileset_tdfarmtiles_dirt.png' at thread -1
+Loading resource: res://world/world_tilemap/assets/large_rock_sheet.png remapped: res://world/world_tilemap/assets/large_rock_sheet.png
+Loading resource: res://.godot/imported/large_rock_sheet.png-75c3cb805c19de8a40378d8adf2fbc1d.ctex remapped: res://.godot/imported/large_rock_sheet.png-75c3cb805c19de8a40378d8adf2fbc1d.ctex
+Completed load for: 'res://world/world_tilemap/assets/large_rock_sheet.png' remapped 'res://world/world_tilemap/assets/large_rock_sheet.png' at thread -1
+Loading resource: res://world/world_tilemap/assets/tile_selector.png remapped: res://world/world_tilemap/assets/tile_selector.png
+Loading resource: res://.godot/imported/tile_selector.png-7e032e48ab1214e15aa420bfb125b622.ctex remapped: res://.godot/imported/tile_selector.png-7e032e48ab1214e15aa420bfb125b622.ctex
+Completed load for: 'res://world/world_tilemap/assets/tile_selector.png' remapped 'res://world/world_tilemap/assets/tile_selector.png' at thread -1
+Completed load for: 'res://world/world_tilemap/world_map_tileset.tres' remapped 'res://world/world_tilemap/world_map_tileset.tres' at thread -1
+Completed load for: 'res://title_screen.tscn' remapped 'res://title_screen.tscn' at thread -1
+Completed load for: 'res://game.tscn' remapped 'res://game.tscn' at thread -1
+Loading resource: res://world/world.tscn remapped: res://world/world.tscn
+Loading resource: res://world/world.gd remapped: res://world/world.gd
+Loading resource: res://player/player_character.tscn remapped: res://player/player_character.tscn
+Loading resource: res://player/player_character.gd remapped: res://player/player_character.gd
+Completed load for: 'res://player/player_character.gd' remapped 'res://player/player_character.gd' at thread -1
+Loading resource: res://common/assets/images/effects/tdfarmfx_shadow_1.png remapped: res://common/assets/images/effects/tdfarmfx_shadow_1.png
+Loading resource: res://.godot/imported/tdfarmfx_shadow_1.png-6d57a7a5a92f132b612ff71749e5e76b.ctex remapped: res://.godot/imported/tdfarmfx_shadow_1.png-6d57a7a5a92f132b612ff71749e5e76b.ctex
+Completed load for: 'res://common/assets/images/effects/tdfarmfx_shadow_1.png' remapped 'res://common/assets/images/effects/tdfarmfx_shadow_1.png' at thread -1
+Loading resource: res://player/resources/player_character.tres remapped: res://player/resources/player_character.tres
+Loading resource: res://player/assets/farmer_0/tdfarmchar_0_idledwn_0-sheet.png remapped: res://player/assets/farmer_0/tdfarmchar_0_idledwn_0-sheet.png
+Loading resource: res://.godot/imported/tdfarmchar_0_idledwn_0-sheet.png-b9b9a57236e84baab6eb9034322b2828.ctex remapped: res://.godot/imported/tdfarmchar_0_idledwn_0-sheet.png-b9b9a57236e84baab6eb9034322b2828.ctex
+Completed load for: 'res://player/assets/farmer_0/tdfarmchar_0_idledwn_0-sheet.png' remapped 'res://player/assets/farmer_0/tdfarmchar_0_idledwn_0-sheet.png' at thread -1
+Loading resource: res://player/assets/farmer_0/tdfarmchar_0_rundwn_0-sheet.png remapped: res://player/assets/farmer_0/tdfarmchar_0_rundwn_0-sheet.png
+Loading resource: res://.godot/imported/tdfarmchar_0_rundwn_0-sheet.png-9412ac149f0125f339e0b844fc89fafb.ctex remapped: res://.godot/imported/tdfarmchar_0_rundwn_0-sheet.png-9412ac149f0125f339e0b844fc89fafb.ctex
+Completed load for: 'res://player/assets/farmer_0/tdfarmchar_0_rundwn_0-sheet.png' remapped 'res://player/assets/farmer_0/tdfarmchar_0_rundwn_0-sheet.png' at thread -1
+Loading resource: res://player/assets/farmer_0/tdfarmchar_0_runlft_0-sheet.png remapped: res://player/assets/farmer_0/tdfarmchar_0_runlft_0-sheet.png
+Loading resource: res://.godot/imported/tdfarmchar_0_runlft_0-sheet.png-58c476242dbfa35867740ba37aba31d8.ctex remapped: res://.godot/imported/tdfarmchar_0_runlft_0-sheet.png-58c476242dbfa35867740ba37aba31d8.ctex
+Completed load for: 'res://player/assets/farmer_0/tdfarmchar_0_runlft_0-sheet.png' remapped 'res://player/assets/farmer_0/tdfarmchar_0_runlft_0-sheet.png' at thread -1
+Loading resource: res://player/assets/farmer_0/tdfarmchar_0_idlelft_0-sheet.png remapped: res://player/assets/farmer_0/tdfarmchar_0_idlelft_0-sheet.png
+Loading resource: res://.godot/imported/tdfarmchar_0_idlelft_0-sheet.png-d835cd4d01fd3fdb7f3bca4b35c682f3.ctex remapped: res://.godot/imported/tdfarmchar_0_idlelft_0-sheet.png-d835cd4d01fd3fdb7f3bca4b35c682f3.ctex
+Completed load for: 'res://player/assets/farmer_0/tdfarmchar_0_idlelft_0-sheet.png' remapped 'res://player/assets/farmer_0/tdfarmchar_0_idlelft_0-sheet.png' at thread -1
+Loading resource: res://player/assets/farmer_0/tdfarmchar_0_runrgt_0-Sheet-sheet.png remapped: res://player/assets/farmer_0/tdfarmchar_0_runrgt_0-Sheet-sheet.png
+Loading resource: res://.godot/imported/tdfarmchar_0_runrgt_0-Sheet-sheet.png-8808e29d8b40420c144eefd52d83e2f8.ctex remapped: res://.godot/imported/tdfarmchar_0_runrgt_0-Sheet-sheet.png-8808e29d8b40420c144eefd52d83e2f8.ctex
+Completed load for: 'res://player/assets/farmer_0/tdfarmchar_0_runrgt_0-Sheet-sheet.png' remapped 'res://player/assets/farmer_0/tdfarmchar_0_runrgt_0-Sheet-sheet.png' at thread -1
+Loading resource: res://player/assets/farmer_0/tdfarmchar_0_idlergt_0-sheet.png remapped: res://player/assets/farmer_0/tdfarmchar_0_idlergt_0-sheet.png
+Loading resource: res://.godot/imported/tdfarmchar_0_idlergt_0-sheet.png-96601ece981eedb1b61330f9bf0ff33d.ctex remapped: res://.godot/imported/tdfarmchar_0_idlergt_0-sheet.png-96601ece981eedb1b61330f9bf0ff33d.ctex
+Completed load for: 'res://player/assets/farmer_0/tdfarmchar_0_idlergt_0-sheet.png' remapped 'res://player/assets/farmer_0/tdfarmchar_0_idlergt_0-sheet.png' at thread -1
+Loading resource: res://player/assets/farmer_0/tdfarmchar_0_runup_0-sheet.png remapped: res://player/assets/farmer_0/tdfarmchar_0_runup_0-sheet.png
+Loading resource: res://.godot/imported/tdfarmchar_0_runup_0-sheet.png-4fbee1ad16f010d8d7cb110e02f694a9.ctex remapped: res://.godot/imported/tdfarmchar_0_runup_0-sheet.png-4fbee1ad16f010d8d7cb110e02f694a9.ctex
+Completed load for: 'res://player/assets/farmer_0/tdfarmchar_0_runup_0-sheet.png' remapped 'res://player/assets/farmer_0/tdfarmchar_0_runup_0-sheet.png' at thread -1
+Loading resource: res://player/assets/farmer_0/tdfarmchar_0_idleup_0-sheet.png remapped: res://player/assets/farmer_0/tdfarmchar_0_idleup_0-sheet.png
+Loading resource: res://.godot/imported/tdfarmchar_0_idleup_0-sheet.png-28a3cdf0f9735a97074115fd0473ed88.ctex remapped: res://.godot/imported/tdfarmchar_0_idleup_0-sheet.png-28a3cdf0f9735a97074115fd0473ed88.ctex
+Completed load for: 'res://player/assets/farmer_0/tdfarmchar_0_idleup_0-sheet.png' remapped 'res://player/assets/farmer_0/tdfarmchar_0_idleup_0-sheet.png' at thread -1
+Completed load for: 'res://player/resources/player_character.tres' remapped 'res://player/resources/player_character.tres' at thread -1
+Completed load for: 'res://player/player_character.tscn' remapped 'res://player/player_character.tscn' at thread -1
+Completed load for: 'res://world/world.gd' remapped 'res://world/world.gd' at thread -1
+Loading resource: res://player/clicking_player_character.tscn remapped: res://player/clicking_player_character.tscn
+Loading resource: res://player/clicking_player.tscn remapped: res://player/clicking_player.tscn
+Loading resource: res://player/clicking_player.gd remapped: res://player/clicking_player.gd
+Completed load for: 'res://player/clicking_player.gd' remapped 'res://player/clicking_player.gd' at thread -1
+Completed load for: 'res://player/clicking_player.tscn' remapped 'res://player/clicking_player.tscn' at thread -1
+Completed load for: 'res://player/clicking_player_character.tscn' remapped 'res://player/clicking_player_character.tscn' at thread -1
+Loading resource: res://world/world_tilemap/world_tilemap.tscn remapped: res://world/world_tilemap/world_tilemap.tscn
+Loading resource: res://world/world_tilemap/world_tilemap.gd remapped: res://world/world_tilemap/world_tilemap.gd
+Loading resource: res://world/world_tilemap/soil_data.tscn remapped: res://world/world_tilemap/soil_data.tscn
+Completed load for: 'res://world/world_tilemap/soil_data.tscn' remapped 'res://world/world_tilemap/soil_data.tscn' at thread -1
+Completed load for: 'res://world/world_tilemap/world_tilemap.gd' remapped 'res://world/world_tilemap/world_tilemap.gd' at thread -1
+Completed load for: 'res://world/world_tilemap/world_tilemap.tscn' remapped 'res://world/world_tilemap/world_tilemap.tscn' at thread -1
+Loading resource: res://ui/pausemenu_ui.tscn remapped: res://ui/pausemenu_ui.tscn
+Loading resource: res://ui/pause_menu.gd remapped: res://ui/pause_menu.gd
+Completed load for: 'res://ui/pause_menu.gd' remapped 'res://ui/pause_menu.gd' at thread -1
+Loading resource: res://resources/menus_button.tscn remapped: res://resources/menus_button.tscn
+Loading resource: res://assets/images/hud/menus_button_unpressed.png remapped: res://assets/images/hud/menus_button_unpressed.png
+Loading resource: res://.godot/imported/menus_button_unpressed.png-95eed780c0e88b74833b8afc1f9dc163.ctex remapped: res://.godot/imported/menus_button_unpressed.png-95eed780c0e88b74833b8afc1f9dc163.ctex
+Completed load for: 'res://assets/images/hud/menus_button_unpressed.png' remapped 'res://assets/images/hud/menus_button_unpressed.png' at thread -1
+Loading resource: res://assets/Fonts/Kenney Pixel.ttf remapped: res://assets/Fonts/Kenney Pixel.ttf
+Loading resource: res://.godot/imported/Kenney Pixel.ttf-bfeee1b80514f0a82a1024eba2c5fa2a.fontdata remapped: res://.godot/imported/Kenney Pixel.ttf-bfeee1b80514f0a82a1024eba2c5fa2a.fontdata
+Completed load for: 'res://assets/Fonts/Kenney Pixel.ttf' remapped 'res://assets/Fonts/Kenney Pixel.ttf' at thread -1
+Loading resource: res://assets/images/hud/menus_button_pressed.png remapped: res://assets/images/hud/menus_button_pressed.png
+Loading resource: res://.godot/imported/menus_button_pressed.png-2eea65c035527d82663c33eddfdd0a31.ctex remapped: res://.godot/imported/menus_button_pressed.png-2eea65c035527d82663c33eddfdd0a31.ctex
+Completed load for: 'res://assets/images/hud/menus_button_pressed.png' remapped 'res://assets/images/hud/menus_button_pressed.png' at thread -1
+Completed load for: 'res://resources/menus_button.tscn' remapped 'res://resources/menus_button.tscn' at thread -1
+Loading resource: res://ui/assets/Background.png remapped: res://ui/assets/Background.png
+Loading resource: res://.godot/imported/Background.png-eb78aa8c62459a776306a3fe9ae7401e.ctex remapped: res://.godot/imported/Background.png-eb78aa8c62459a776306a3fe9ae7401e.ctex
+Completed load for: 'res://ui/assets/Background.png' remapped 'res://ui/assets/Background.png' at thread -1
+Loading resource: res://assets/images/hud/x BUTTON on.png remapped: res://assets/images/hud/x BUTTON on.png
+Loading resource: res://.godot/imported/x BUTTON on.png-fa93f0c04c5e8e792fff48b0e7560693.ctex remapped: res://.godot/imported/x BUTTON on.png-fa93f0c04c5e8e792fff48b0e7560693.ctex
+Completed load for: 'res://assets/images/hud/x BUTTON on.png' remapped 'res://assets/images/hud/x BUTTON on.png' at thread -1
+Loading resource: res://assets/images/hud/x BUTTON off.png remapped: res://assets/images/hud/x BUTTON off.png
+Loading resource: res://.godot/imported/x BUTTON off.png-e25c7db1361ee0fe679cdee4e866ba9d.ctex remapped: res://.godot/imported/x BUTTON off.png-e25c7db1361ee0fe679cdee4e866ba9d.ctex
+Completed load for: 'res://assets/images/hud/x BUTTON off.png' remapped 'res://assets/images/hud/x BUTTON off.png' at thread -1
+Completed load for: 'res://ui/pausemenu_ui.tscn' remapped 'res://ui/pausemenu_ui.tscn' at thread -1
+Loading resource: res://ui/inventories/hot_bar.tscn remapped: res://ui/inventories/hot_bar.tscn
+Loading resource: res://ui/inventories/hot_bar.gd remapped: res://ui/inventories/hot_bar.gd
+Completed load for: 'res://ui/inventories/hot_bar.gd' remapped 'res://ui/inventories/hot_bar.gd' at thread -1
+Completed load for: 'res://ui/inventories/hot_bar.tscn' remapped 'res://ui/inventories/hot_bar.tscn' at thread -1
+Loading resource: res://ui/month_transition.tscn remapped: res://ui/month_transition.tscn
+Loading resource: res://ui/month_transition.gd remapped: res://ui/month_transition.gd
+Completed load for: 'res://ui/month_transition.gd' remapped 'res://ui/month_transition.gd' at thread -1
+Loading resource: res://ui/assets/item_slot.png remapped: res://ui/assets/item_slot.png
+Loading resource: res://.godot/imported/item_slot.png-55b06741436dda23be010870b9de4ae5.ctex remapped: res://.godot/imported/item_slot.png-55b06741436dda23be010870b9de4ae5.ctex
+Completed load for: 'res://ui/assets/item_slot.png' remapped 'res://ui/assets/item_slot.png' at thread -1
+Loading resource: res://ui/assets/clicked_slot.png remapped: res://ui/assets/clicked_slot.png
+Loading resource: res://.godot/imported/clicked_slot.png-681e4e6f3b74a506902b695204ea0e10.ctex remapped: res://.godot/imported/clicked_slot.png-681e4e6f3b74a506902b695204ea0e10.ctex
+Completed load for: 'res://ui/assets/clicked_slot.png' remapped 'res://ui/assets/clicked_slot.png' at thread -1
+Completed load for: 'res://ui/month_transition.tscn' remapped 'res://ui/month_transition.tscn' at thread -1
+Loading resource: res://animals/cow.tscn remapped: res://animals/cow.tscn
+Loading resource: res://animals/cow.gd remapped: res://animals/cow.gd
+Completed load for: 'res://animals/cow.gd' remapped 'res://animals/cow.gd' at thread -1
+Loading resource: res://animals/Free Cow Sprites-export.png remapped: res://animals/Free Cow Sprites-export.png
+Loading resource: res://.godot/imported/Free Cow Sprites-export.png-a532bcdbedb242d311cc5fbfe4e7dda4.ctex remapped: res://.godot/imported/Free Cow Sprites-export.png-a532bcdbedb242d311cc5fbfe4e7dda4.ctex
+Completed load for: 'res://animals/Free Cow Sprites-export.png' remapped 'res://animals/Free Cow Sprites-export.png' at thread -1
+Completed load for: 'res://animals/cow.tscn' remapped 'res://animals/cow.tscn' at thread -1
+Loading resource: res://animals/farm_animal.tscn remapped: res://animals/farm_animal.tscn
+Completed load for: 'res://animals/farm_animal.tscn' remapped 'res://animals/farm_animal.tscn' at thread -1
+Loading resource: res://chill_chill/assets/Sheep.png remapped: res://chill_chill/assets/Sheep.png
+Loading resource: res://.godot/imported/Sheep.png-07067c63d9395610f0ff2133e295597f.ctex remapped: res://.godot/imported/Sheep.png-07067c63d9395610f0ff2133e295597f.ctex
+Completed load for: 'res://chill_chill/assets/Sheep.png' remapped 'res://chill_chill/assets/Sheep.png' at thread -1
+Loading resource: res://chill_chill/assets/Lamb.png remapped: res://chill_chill/assets/Lamb.png
+Loading resource: res://.godot/imported/Lamb.png-6be15971435350be7c3e04f357a5b7b8.ctex remapped: res://.godot/imported/Lamb.png-6be15971435350be7c3e04f357a5b7b8.ctex
+Completed load for: 'res://chill_chill/assets/Lamb.png' remapped 'res://chill_chill/assets/Lamb.png' at thread -1
+Loading resource: res://chill_chill/assets/Piglet.png remapped: res://chill_chill/assets/Piglet.png
+Loading resource: res://.godot/imported/Piglet.png-11cfd896d5df36b2511e3f4fdfa000ae.ctex remapped: res://.godot/imported/Piglet.png-11cfd896d5df36b2511e3f4fdfa000ae.ctex
+Completed load for: 'res://chill_chill/assets/Piglet.png' remapped 'res://chill_chill/assets/Piglet.png' at thread -1
+Loading resource: res://chill_chill/assets/Rooster.png remapped: res://chill_chill/assets/Rooster.png
+Loading resource: res://.godot/imported/Rooster.png-26d9c2974ced10cd27e4fa42ef5a4541.ctex remapped: res://.godot/imported/Rooster.png-26d9c2974ced10cd27e4fa42ef5a4541.ctex
+Completed load for: 'res://chill_chill/assets/Rooster.png' remapped 'res://chill_chill/assets/Rooster.png' at thread -1
+Loading resource: res://chill_chill/assets/Chick.png remapped: res://chill_chill/assets/Chick.png
+Loading resource: res://.godot/imported/Chick.png-347ffb92182228db31a4c3c863ac7ab1.ctex remapped: res://.godot/imported/Chick.png-347ffb92182228db31a4c3c863ac7ab1.ctex
+Completed load for: 'res://chill_chill/assets/Chick.png' remapped 'res://chill_chill/assets/Chick.png' at thread -1
+Loading resource: res://chill_chill/assets/Turkey.png remapped: res://chill_chill/assets/Turkey.png
+Loading resource: res://.godot/imported/Turkey.png-9c0bb10bf420346cb45626c6323a5efe.ctex remapped: res://.godot/imported/Turkey.png-9c0bb10bf420346cb45626c6323a5efe.ctex
+Completed load for: 'res://chill_chill/assets/Turkey.png' remapped 'res://chill_chill/assets/Turkey.png' at thread -1
+Loading resource: res://chill_chill/assets/Bull.png remapped: res://chill_chill/assets/Bull.png
+Loading resource: res://.godot/imported/Bull.png-be1aaf8683c7f649a02a0738ba042606.ctex remapped: res://.godot/imported/Bull.png-be1aaf8683c7f649a02a0738ba042606.ctex
+Completed load for: 'res://chill_chill/assets/Bull.png' remapped 'res://chill_chill/assets/Bull.png' at thread -1
+Loading resource: res://chill_chill/assets/sfx_sheep.wav remapped: res://chill_chill/assets/sfx_sheep.wav
+Loading resource: res://.godot/imported/sfx_sheep.wav-3dd6bdede1e401174c2befa96a238059.sample remapped: res://.godot/imported/sfx_sheep.wav-3dd6bdede1e401174c2befa96a238059.sample
+Completed load for: 'res://chill_chill/assets/sfx_sheep.wav' remapped 'res://chill_chill/assets/sfx_sheep.wav' at thread -1
+Loading resource: res://chill_chill/assets/sfx_pig.wav remapped: res://chill_chill/assets/sfx_pig.wav
+Loading resource: res://.godot/imported/sfx_pig.wav-e92694bf7d299eeeb47bbf927021df12.sample remapped: res://.godot/imported/sfx_pig.wav-e92694bf7d299eeeb47bbf927021df12.sample
+Completed load for: 'res://chill_chill/assets/sfx_pig.wav' remapped 'res://chill_chill/assets/sfx_pig.wav' at thread -1
+Loading resource: res://chill_chill/assets/sfx_bird.wav remapped: res://chill_chill/assets/sfx_bird.wav
+Loading resource: res://.godot/imported/sfx_bird.wav-3d2bd9e39b0fd83bc86226312eea0365.sample remapped: res://.godot/imported/sfx_bird.wav-3d2bd9e39b0fd83bc86226312eea0365.sample
+Completed load for: 'res://chill_chill/assets/sfx_bird.wav' remapped 'res://chill_chill/assets/sfx_bird.wav' at thread -1
+Loading resource: res://chill_chill/assets/sfx_bull.wav remapped: res://chill_chill/assets/sfx_bull.wav
+Loading resource: res://.godot/imported/sfx_bull.wav-7db531ba68f5f2284e983c74a64f2f09.sample remapped: res://.godot/imported/sfx_bull.wav-7db531ba68f5f2284e983c74a64f2f09.sample
+Completed load for: 'res://chill_chill/assets/sfx_bull.wav' remapped 'res://chill_chill/assets/sfx_bull.wav' at thread -1
+Loading resource: res://assets/packs/home/PNG/exterior.png remapped: res://assets/packs/home/PNG/exterior.png
+Loading resource: res://.godot/imported/exterior.png-05fa6a0ab16cf41e9442591dd8afd107.ctex remapped: res://.godot/imported/exterior.png-05fa6a0ab16cf41e9442591dd8afd107.ctex
+Completed load for: 'res://assets/packs/home/PNG/exterior.png' remapped 'res://assets/packs/home/PNG/exterior.png' at thread -1
+Loading resource: res://assets/packs/home/PNG/house_details.png remapped: res://assets/packs/home/PNG/house_details.png
+Loading resource: res://.godot/imported/house_details.png-8508a352145d245185803403eae94d77.ctex remapped: res://.godot/imported/house_details.png-8508a352145d245185803403eae94d77.ctex
+Completed load for: 'res://assets/packs/home/PNG/house_details.png' remapped 'res://assets/packs/home/PNG/house_details.png' at thread -1
+Loading resource: res://assets/packs/home/PNG/Interior.png remapped: res://assets/packs/home/PNG/Interior.png
+Loading resource: res://.godot/imported/Interior.png-ed1c27e76da98c0ea189e2cce18eb83d.ctex remapped: res://.godot/imported/Interior.png-ed1c27e76da98c0ea189e2cce18eb83d.ctex
+Completed load for: 'res://assets/packs/home/PNG/Interior.png' remapped 'res://assets/packs/home/PNG/Interior.png' at thread -1
+Loading resource: res://world/interiors/house_floor.png remapped: res://world/interiors/house_floor.png
+Loading resource: res://.godot/imported/house_floor.png-852f79852eaef6f586e62910a190ca2a.ctex remapped: res://.godot/imported/house_floor.png-852f79852eaef6f586e62910a190ca2a.ctex
+Completed load for: 'res://world/interiors/house_floor.png' remapped 'res://world/interiors/house_floor.png' at thread -1
+Loading resource: res://world/interiors/barn_floor.png remapped: res://world/interiors/barn_floor.png
+Loading resource: res://.godot/imported/barn_floor.png-1432b5183f6f824042f55253bde52d4f.ctex remapped: res://.godot/imported/barn_floor.png-1432b5183f6f824042f55253bde52d4f.ctex
+Completed load for: 'res://world/interiors/barn_floor.png' remapped 'res://world/interiors/barn_floor.png' at thread -1
+Loading resource: res://chill_chill/assets/Calf.png remapped: res://chill_chill/assets/Calf.png
+Loading resource: res://.godot/imported/Calf.png-277a32a4f6f832b12cd5457e452aa605.ctex remapped: res://.godot/imported/Calf.png-277a32a4f6f832b12cd5457e452aa605.ctex
+Completed load for: 'res://chill_chill/assets/Calf.png' remapped 'res://chill_chill/assets/Calf.png' at thread -1
+Loading resource: res://world/interiors/big_house_floor.png remapped: res://world/interiors/big_house_floor.png
+Loading resource: res://.godot/imported/big_house_floor.png-1cd854ea072812026bafe32342d09256.ctex remapped: res://.godot/imported/big_house_floor.png-1cd854ea072812026bafe32342d09256.ctex
+Completed load for: 'res://world/interiors/big_house_floor.png' remapped 'res://world/interiors/big_house_floor.png' at thread -1
+Completed load for: 'res://world/world.tscn' remapped 'res://world/world.tscn' at thread -1
+SCREENSHOT title_fixed.png (640, 360)
+PASS SG logo removed
+Loading resource: res://title_screen.tscn remapped: res://title_screen.tscn
+Completed load for: 'res://title_screen.tscn' remapped 'res://title_screen.tscn' at thread -1
+Loading resource: res://season/season_particles.gd remapped: res://season/season_particles.gd
+Completed load for: 'res://season/season_particles.gd' remapped 'res://season/season_particles.gd' at thread -1
+PASS Play button opens farm
+SCREENSHOT names_dialog.png (640, 360)
+PASS Fresh save opens name dialog
+PASS Name confirmation resumes game
+PASS Saved custom names preserved
+PASS Two controllable players spawned
+PASS Player two has distinct female frames
+PASS Female animation down_idle
+PASS Female animation up_idle
+PASS Female animation left_idle
+PASS Female animation right_idle
+PASS Female animation walk_down
+PASS Female animation walk_up
+PASS Female animation walk_left
+PASS Female animation walk_right
+SCREENSHOT farm_fixed.png (640, 360)
+PASS Expanded herd has 47 animals
+PASS Herd count Cow: 6
+PASS Herd count Bull: 3
+PASS Herd count Calf: 6
+PASS Herd count Sheep: 6
+PASS Herd count Lamb: 5
+PASS Herd count Piglet: 6
+PASS Herd count Rooster: 3
+PASS Herd count Chick: 7
+PASS Herd count Turkey: 5
+PASS Large house is on separate eastern plot
+PASS Both players recognized for livestock sounds
+PASS Camera reaches expanded eastern map
+PASS Livestock voice assigned: Cow
+PASS Livestock voice assigned: Cow2
+PASS Livestock voice assigned: Cow3
+PASS Livestock voice assigned: Sheep
+PASS Livestock voice assigned: Lamb
+PASS Livestock voice assigned: Piglet
+PASS Livestock voice assigned: Rooster
+PASS Livestock voice assigned: Chick
+PASS Livestock voice assigned: Turkey
+PASS Livestock voice assigned: Bull
+PASS Livestock voice assigned: Calf
+PASS Livestock voice assigned: Calf2
+PASS Livestock voice assigned: Sheep2
+PASS Livestock voice assigned: Lamb2
+PASS Livestock voice assigned: Piglet2
+PASS Livestock voice assigned: Chick2
+PASS Livestock voice assigned: Turkey2
+PASS Livestock voice assigned: Cow4
+PASS Livestock voice assigned: Cow5
+PASS Livestock voice assigned: Cow6
+PASS Livestock voice assigned: Bull2
+PASS Livestock voice assigned: Bull3
+PASS Livestock voice assigned: Calf3
+PASS Livestock voice assigned: Calf4
+PASS Livestock voice assigned: Calf5
+PASS Livestock voice assigned: Calf6
+PASS Livestock voice assigned: Sheep3
+PASS Livestock voice assigned: Sheep4
+PASS Livestock voice assigned: Sheep5
+PASS Livestock voice assigned: Sheep6
+PASS Livestock voice assigned: Lamb3
+PASS Livestock voice assigned: Lamb4
+PASS Livestock voice assigned: Lamb5
+PASS Livestock voice assigned: Piglet3
+PASS Livestock voice assigned: Piglet4
+PASS Livestock voice assigned: Piglet5
+PASS Livestock voice assigned: Piglet6
+PASS Livestock voice assigned: Rooster2
+PASS Livestock voice assigned: Rooster3
+PASS Livestock voice assigned: Chick3
+PASS Livestock voice assigned: Chick4
+PASS Livestock voice assigned: Chick5
+PASS Livestock voice assigned: Chick6
+PASS Livestock voice assigned: Chick7
+PASS Livestock voice assigned: Turkey3
+PASS Livestock voice assigned: Turkey4
+PASS Livestock voice assigned: Turkey5
+PASS Both players walk east across connecting road and estate gate
+PASS All 47 animals stay inside their pastures while roaming
+PASS Animal movement remains normalized and speed-limited
+PASS All nine animal types animate and roam
+PASS Outdoor camera keeps players visible on estate
+SCREENSHOT estate_play.png (640, 360)
+PASS Livestock stay quiet when both players are far away
+PASS Both players walk back to farm without boundary obstruction
+PASS Nearby livestock play at most two voices together
+PASS Entering a house silences outdoor livestock
+PASS All added livestock hidden and paused indoors
+PASS House exit returns to relocated eastern door
+PASS Cannot plant crops in residential yard
+PASS Cannot plant crops in livestock pen
+PASS Toolbar mouse selection 0
+PASS Toolbar slot in viewport 0
+PASS Toolbar mouse selection 1
+PASS Toolbar slot in viewport 1
+PASS Toolbar mouse selection 2
+PASS Toolbar slot in viewport 2
+PASS Toolbar mouse selection 3
+PASS Toolbar slot in viewport 3
+PASS Toolbar mouse selection 4
+PASS Toolbar slot in viewport 4
+PASS Toolbar mouse selection 5
+PASS Toolbar slot in viewport 5
+PASS Toolbar mouse selection 6
+PASS Toolbar slot in viewport 6
+PASS Toolbar mouse selection 7
+PASS Toolbar slot in viewport 7
+PASS Toolbar mouse selection 8
+PASS Toolbar slot in viewport 8
+PASS Toolbar mouse selection 9
+PASS Toolbar slot in viewport 9
+PASS Toolbar mouse selection 10
+PASS Toolbar slot in viewport 10
+PASS Toolbar mouse selection 11
+PASS Toolbar slot in viewport 11
+PASS Toolbar mouse selection 12
+PASS Toolbar slot in viewport 12
+PASS UI clicks do not plant behind toolbar
+PASS Keyboard cycles crop selection
+PASS Buy updates selected crop stock
+PASS Buy charges correct account
+SCREENSHOT toolbar_stock.png (640, 360)
+PASS Sell clears stock
+PASS Cannot buy without money
+PASS Touch controls do not cover toolbar
+SCREENSHOT touch_toolbar.png (640, 360)
+PASS Player two walks through big-house door
+PASS Player one teleports once without parent offset
+PASS Player two enters the same room
+PASS Co-op camera stays active indoors
+PASS Camera centers inside house
+PASS Outdoor sign hidden inside
+PASS Farming toolbar hidden indoors
+SCREENSHOT bighouse_fixed.png (640, 360)
+PASS Indoor camera adapts to resized window
+PASS Male can walk indoors
+PASS Female can walk indoors
+PASS Both players use separate beds
+PASS Indoor actions do not plant crops
+SCREENSHOT beds_fixed.png (640, 360)
+PASS Movement gets both players out of bed
+PASS Left wall blocks walking out of floor
+PASS Female walks through exit and brings both outside
+PASS Outdoor camera limits restored
+PASS Toolbar and crop markers restored
+SCREENSHOT outside_again.png (640, 360)
+PASS Male enters house
+PASS Exit button works for house
+PASS Male enters barn
+PASS Female feeds barn animal with sound
+SCREENSHOT barn_fixed.png (640, 360)
+PASS Touch action feeds animal
+PASS Exit button works for barn
+PASS Male enters big_house
+PASS Switch to solo indoors
+PASS Solo camera shows room
+PASS Restore two players indoors
+PASS No outdoor markers after indoor co-op toggle
+PASS Exit button works for big_house
+Loading resource: res://chill_chill/main.tscn remapped: res://chill_chill/main.tscn
+Completed load for: 'res://chill_chill/main.tscn' remapped 'res://chill_chill/main.tscn' at thread -1
+Loading resource: res://chill_chill/assets/Plants.png remapped: res://chill_chill/assets/Plants.png
+Loading resource: res://.godot/imported/Plants.png-98717029e9f7a6f5d49ba1e523569495.ctex remapped: res://.godot/imported/Plants.png-98717029e9f7a6f5d49ba1e523569495.ctex
+Completed load for: 'res://chill_chill/assets/Plants.png' remapped 'res://chill_chill/assets/Plants.png' at thread -1
+Loading resource: res://chill_chill/assets/chill_chill_theme.wav remapped: res://chill_chill/assets/chill_chill_theme.wav
+Loading resource: res://.godot/imported/chill_chill_theme.wav-aad5a8a88b62acdc04d5ed73b2f2ae32.sample remapped: res://.godot/imported/chill_chill_theme.wav-aad5a8a88b62acdc04d5ed73b2f2ae32.sample
+Completed load for: 'res://chill_chill/assets/chill_chill_theme.wav' remapped 'res://chill_chill/assets/chill_chill_theme.wav' at thread -1
+Loading resource: res://chill_chill/assets/sfx_hoe.wav remapped: res://chill_chill/assets/sfx_hoe.wav
+Loading resource: res://.godot/imported/sfx_hoe.wav-d699c5ab04972fcbe88b51019c320716.sample remapped: res://.godot/imported/sfx_hoe.wav-d699c5ab04972fcbe88b51019c320716.sample
+Completed load for: 'res://chill_chill/assets/sfx_hoe.wav' remapped 'res://chill_chill/assets/sfx_hoe.wav' at thread -1
+Loading resource: res://chill_chill/assets/sfx_seed.wav remapped: res://chill_chill/assets/sfx_seed.wav
+Loading resource: res://.godot/imported/sfx_seed.wav-affb10c362e9a59137906ae0f03fe4d9.sample remapped: res://.godot/imported/sfx_seed.wav-affb10c362e9a59137906ae0f03fe4d9.sample
+Completed load for: 'res://chill_chill/assets/sfx_seed.wav' remapped 'res://chill_chill/assets/sfx_seed.wav' at thread -1
+Loading resource: res://chill_chill/assets/sfx_water.wav remapped: res://chill_chill/assets/sfx_water.wav
+Loading resource: res://.godot/imported/sfx_water.wav-ba3706b3d686c06e596469032370dfb3.sample remapped: res://.godot/imported/sfx_water.wav-ba3706b3d686c06e596469032370dfb3.sample
+Completed load for: 'res://chill_chill/assets/sfx_water.wav' remapped 'res://chill_chill/assets/sfx_water.wav' at thread -1
+Loading resource: res://chill_chill/assets/sfx_harvest.wav remapped: res://chill_chill/assets/sfx_harvest.wav
+Loading resource: res://.godot/imported/sfx_harvest.wav-42e32ae04528c1c7838838f65a774690.sample remapped: res://.godot/imported/sfx_harvest.wav-42e32ae04528c1c7838838f65a774690.sample
+Completed load for: 'res://chill_chill/assets/sfx_harvest.wav' remapped 'res://chill_chill/assets/sfx_harvest.wav' at thread -1
+Loading resource: res://chill_chill/assets/sfx_coin.wav remapped: res://chill_chill/assets/sfx_coin.wav
+Loading resource: res://.godot/imported/sfx_coin.wav-168b0765ec9b70d786f68d4c31b21090.sample remapped: res://.godot/imported/sfx_coin.wav-168b0765ec9b70d786f68d4c31b21090.sample
+Completed load for: 'res://chill_chill/assets/sfx_coin.wav' remapped 'res://chill_chill/assets/sfx_coin.wav' at thread -1
+Loading resource: res://chill_chill/assets/sfx_purchase.wav remapped: res://chill_chill/assets/sfx_purchase.wav
+Loading resource: res://.godot/imported/sfx_purchase.wav-8f803931da3e1b8ce36ee702dc16b59c.sample remapped: res://.godot/imported/sfx_purchase.wav-8f803931da3e1b8ce36ee702dc16b59c.sample
+Completed load for: 'res://chill_chill/assets/sfx_purchase.wav' remapped 'res://chill_chill/assets/sfx_purchase.wav' at thread -1
+Loading resource: res://chill_chill/assets/sfx_sleep.wav remapped: res://chill_chill/assets/sfx_sleep.wav
+Loading resource: res://.godot/imported/sfx_sleep.wav-52f0f3ef07abf30261ad2829b876d5cd.sample remapped: res://.godot/imported/sfx_sleep.wav-52f0f3ef07abf30261ad2829b876d5cd.sample
+Completed load for: 'res://chill_chill/assets/sfx_sleep.wav' remapped 'res://chill_chill/assets/sfx_sleep.wav' at thread -1
+Loading resource: res://chill_chill/assets/sfx_ui.wav remapped: res://chill_chill/assets/sfx_ui.wav
+Loading resource: res://.godot/imported/sfx_ui.wav-451e35b43cc75ec9c51788a971cce20c.sample remapped: res://.godot/imported/sfx_ui.wav-451e35b43cc75ec9c51788a971cce20c.sample
+Completed load for: 'res://chill_chill/assets/sfx_ui.wav' remapped 'res://chill_chill/assets/sfx_ui.wav' at thread -1
+Loading resource: res://chill_chill/assets/sfx_cow.wav remapped: res://chill_chill/assets/sfx_cow.wav
+Loading resource: res://.godot/imported/sfx_cow.wav-091f9b7e6c33ab55a2f30aab392b9ef9.sample remapped: res://.godot/imported/sfx_cow.wav-091f9b7e6c33ab55a2f30aab392b9ef9.sample
+Completed load for: 'res://chill_chill/assets/sfx_cow.wav' remapped 'res://chill_chill/assets/sfx_cow.wav' at thread -1
+PASS Walk through meadow portal
+SCREENSHOT meadow_fixed.png (1280, 720)
+PASS Farm scene reused on return
+PASS Farm co-op camera restored after travel
+PASS No portal bounce after return
+SCREENSHOT farm_return.png (640, 360)
+VERIFICATION COMPLETE: 0 failures
+XR: Clearing primary interface
+XR: Removed interface "Native mobile"
+XR: Removed interface "OpenXR"
+Accessibility: window 0 adapter destroyed.
+Leaked instance: AudioStreamMP3:9223372074452518386 - Reference count: 1
+Leaked instance: AudioStreamPlaybackMP3:9223372230279302281 - Reference count: 1
+Hint: Leaked instances typically happen when nodes are removed from the scene tree (with `remove_child()`) but not freed (with `free()` or `queue_free()`).
+Resource still in use: res://sounds/Untitled_Farming_Sim_-_overture.mp3 (AudioStreamMP3)
+Orphan StringName: Master (static: 0, total: 2)
+StringName: 1 unclaimed string names at exit.
+WARNING: 2 ObjectDB instances were leaked at exit (run with `--verbose` for details).
+   at: cleanup (core/object/object.cpp:2536)
+ERROR: 1 resources still in use at exit.
+   at: clear (core/io/resource.cpp:817)
