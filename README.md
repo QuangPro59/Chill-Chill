@@ -1,4 +1,4 @@
-# Chill Chill x Seasons Gone
+# Chill Chill
 
 Hai game Godot trong một project: mở `project.godot` bằng Godot 4.7 (hoặc mới hơn) rồi nhấn F5.
 
